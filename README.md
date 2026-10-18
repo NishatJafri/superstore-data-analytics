@@ -2,3 +2,5 @@
 End-to-end Data Analytics project using Python, SQL concepts, and Power BI
 
 Week 6 final data analytics capstone project.
+
+Dataset: Superstore sales dataset containing order, customer, product, sales, and profit information.
